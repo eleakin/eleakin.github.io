@@ -2,7 +2,7 @@
 
 ![](http://d3gnp09177mxuh.cloudfront.net/tech-page-images/r.png)
 
-[ggplot2 notes] (https://privefl.github.io/R-presentation/ggplot2.html#1)
+[ggplot2 notes](https://privefl.github.io/R-presentation/ggplot2.html#1)
 
 [Shiny App using Galton's dataset](https://eleakin.shinyapps.io/DDP3/)
 
