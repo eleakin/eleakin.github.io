@@ -6,4 +6,6 @@
 
 [Shiny App using Galton's dataset](https://eleakin.shinyapps.io/DDP3/)
 
+[Text Mining with R](http://tidytextmining.com/)
+
 ## Please come back for updates!
