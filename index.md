@@ -8,4 +8,6 @@
 
 [Text Mining with R](http://tidytextmining.com/)
 
+[MAP School Analysis Tool](https://grahampicard.shinyapps.io/shinydashboard-map/)
+
 ## Please come back for updates!
