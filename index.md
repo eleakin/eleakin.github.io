@@ -10,4 +10,9 @@
 
 [MAP School Analysis Tool](https://grahampicard.shinyapps.io/shinydashboard-map/)
 
+As John Chambers said:
+>To understand computations in R, two slogans are helpful:  
+>1. Everything that exists is an object. 
+>2. Everything that happens is a function call.
+
 ## Please come back for updates!
