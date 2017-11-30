@@ -1,2 +1,2 @@
 # eleakin.github.io
-## A place to learn about R!
+### A place to learn about R!
