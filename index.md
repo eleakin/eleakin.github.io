@@ -19,5 +19,6 @@ As John Chambers said:
 
 ## Please come back for updates!
 
-```<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy Me a Cup of Coffee!', '#46b798', 'T6T6I7Y4');kofiwidget2.draw();</script> 
+```
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy Me a Cup of Coffee!', '#46b798', 'T6T6I7Y4');kofiwidget2.draw();</script> 
 ```
