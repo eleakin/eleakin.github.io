@@ -12,6 +12,8 @@
 
 [MAP School Analysis Tool](https://grahampicard.shinyapps.io/shinydashboard-map/)
 
+[Capacity Report](https://app.powerbi.com/view?r=eyJrIjoiNTUzZWJkMTQtNDhmNy00YjM0LWEzYmEtZDk0ZTYwOTY4ZjFlIiwidCI6IjFiZTU3MzczLTFiMzMtNGRjOS05OTBhLWE0MTYwOGVjZjM5YiIsImMiOjN9&pageName=ReportSection)
+
 As John Chambers said:
 >To understand computations in R, two slogans are helpful:  
 >1. Everything that exists is an object. 
