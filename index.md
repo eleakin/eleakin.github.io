@@ -16,6 +16,7 @@
 
 [Facility Totals](https://app.powerbi.com/view?r=eyJrIjoiMzQ0NGU1NTUtZDhmNC00MmNiLThkYmMtMGJjNTQ5OGViY2I0IiwidCI6IjFiZTU3MzczLTFiMzMtNGRjOS05OTBhLWE0MTYwOGVjZjM5YiIsImMiOjN9)
 
+
 As John Chambers said:
 >To understand computations in R, two slogans are helpful:  
 >1. Everything that exists is an object. 
